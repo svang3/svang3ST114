@@ -1,0 +1,16 @@
+Homework 1
+
+Due: 8/26/2016 @ 5pm
+
+Name:
+
+Instructions: Please edit this file by typing answers below. You will then "push" the file onto	your github.ncsu.edu repository. We will go over how to do this in the first lab.
+Question 1: Why did you decide to major in statistics?
+
+Question 2: What do you hope to do once you graduate?
+
+Question 3: What do you hope to learn in the class?
+
+Question 4: Do you have any concerns about this class that you'd like to share?
+
+Question 5: Tell us about yourself. Just a sentence or two is fine.
